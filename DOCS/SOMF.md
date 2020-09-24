@@ -8,7 +8,8 @@
 -En 1984 aprecio el primer Mac cuyo nombre era Macquintosh Original que lo acompaño junto a uno de los perfiecrios mas usados hasta la fecha el raton.A diferencia de Windows,Macquintosh tenia mas aplicaciones con las que poder trabajar y poder pintar.Este sistema operativo fue crado apartir de Unix que es un sistema operativo gratuito y libre,de ahi han salido grandes sitemas operativos como Linux.Ahora mismo salio este verano la nueva version 11.0 llamada Big Sur.  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Finder_icon_macOS_Yosemite.png/120px-Finder_icon_macOS_Yosemite.png)  
 
-[**Linux**](https://es.wikipedia.org/wiki/GNU/Linux)  
--Linux es un sistema operativo libre creado en 1991 como un proyecto de un estudiante finlandés Linus Torvalds
+[**Linux**](https://es.wikipedia.org/wiki/GNU/Linux)   
+-Linux es un sistema operativo libre creado en 1991 por el estudiante finlandés Linus Torvalds y en gran parte por GNU,Linux como MacOS viene de la serie de sistemas operativos Unix,una de las cosas que tiene espeical de Linux es que puede ser utilizado, modificado y redistribuido libremente por cualquier usuario.  
+![](https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png)
 [**Android**]():  
 [**Solaris**]():  
