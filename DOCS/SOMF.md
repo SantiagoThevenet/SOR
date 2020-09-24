@@ -13,7 +13,9 @@
 ![](https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png)  
 
 [**Android**](https://es.wikipedia.org/wiki/Android)    
--Android es un sistema operativo para moviles desarrollado por Android Inc en 2005 pero Google compro la empresa, Android fue creado apartir de Linux y algun otro sistema operativo de software libre,es actualmente el sistema operatibo que domina las cuoatas de mercado con mas de un 80% 
+-Android es un sistema operativo para moviles desarrollado por Android Inc en 2005 pero Google compro la empresa, Android fue creado apartir de Linux y algun otro sistema operativo de software libre,es actualmente el sistema operatibo que domina las cuoatas de mercado con mas de un 80% muy por encima de IOS de APPLE que es su clara comentencia acutalmente,pienso que la clara dominacion de Android es que al ser gratuito los fabricantes de moviles les cuesta menos producir sus mobiles y a diferencia de IOS suelen ser mucho mas baratos.Aunque los dispositivos de IOS estan mejor optimizados.  
 ![](https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Android_23487.png)  
 
 [**Solaris**](https://es.wikipedia.org/wiki/Solaris_(sistema_operativo)):  
+Solaris es un sistema operativo que viene de Unix desarrollado en 1992 inicialmente por Sun Microsystems y actualmente propiedad de Oracle Corporation,es un sistema certificado oficialmente como versión de UNIX,una de las venetajas de Solaris es que La principal es que es libre,tambien se puede descargar gratuitamente en su pagina web y funciona en  distintas tecnologías de procesadores com AMD64, SPARC, x86 etc...  
+[](https://alternative.me/media/256/oracle-solaris-icon-xza960tzgqcuv58i-c.png)
