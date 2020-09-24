@@ -18,4 +18,4 @@
 
 [**Solaris**](https://es.wikipedia.org/wiki/Solaris_(sistema_operativo)):  
 Solaris es un sistema operativo que viene de Unix desarrollado en 1992 inicialmente por Sun Microsystems y actualmente propiedad de Oracle Corporation,es un sistema certificado oficialmente como versión de UNIX,una de las venetajas de Solaris es que La principal es que es libre,tambien se puede descargar gratuitamente en su pagina web y funciona en  distintas tecnologías de procesadores com AMD64, SPARC, x86 etc...  
-[](https://alternative.me/media/256/oracle-solaris-icon-xza960tzgqcuv58i-c.png)
+![](https://alternative.me/media/256/oracle-solaris-icon-xza960tzgqcuv58i-c.png)
