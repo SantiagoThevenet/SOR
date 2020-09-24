@@ -10,6 +10,10 @@
 
 [**Linux**](https://es.wikipedia.org/wiki/GNU/Linux)   
 -Linux es un sistema operativo libre creado en 1991 por el estudiante finlandés Linus Torvalds y en gran parte por GNU,Linux como MacOS viene de la serie de sistemas operativos Unix,una de las cosas que tiene espeical de Linux es que puede ser utilizado, modificado y redistribuido libremente por cualquier usuario.  
-![](https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png)
-[**Android**]():  
-[**Solaris**]():  
+![](https://cdn.icon-icons.com/icons2/1159/PNG/256/linux_81610.png)  
+
+[**Android**](https://es.wikipedia.org/wiki/Android)    
+-Android es un sistema operativo para moviles desarrollado por Android Inc en 2005 pero Google compro la empresa, Android fue creado apartir de Linux y algun otro sistema operativo de software libre,es actualmente el sistema operatibo que domina las cuoatas de mercado con mas de un 80% 
+![](https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Android_23487.png)  
+
+[**Solaris**](https://es.wikipedia.org/wiki/Solaris_(sistema_operativo)):  
