@@ -5,9 +5,15 @@
 * La principal diferencia entre ellos es que con el software libre puedes ejecutar, copiar, distribuir, estudiar, modificar el sfotware de forma gratuita.  
 * En cambio el software comercial para hacer lo mismo necesitas pagar la licencia.  
 -Que es una distribicion y cuales son las mas usadas de linux:  
--Una distribución es una versión personalizada del sistema operativo original.  
-* [Manjaro](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/)    
-* [Linux Mint](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/)  
-* [Ubuntu](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/)  
-* [Debian](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/)   
-* [MX Linux](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/)  
+-Una distribución es una versión personalizada del sistema operativo original.Los mas usados de Llinux son:  
+* [Manjaro](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):Su ultima version es "Lysia" lazada en 10-06-2020 y tiene muchas novedades como nuevo tema, nuevo kernel, nuevo sistema de archivos.
+
+* [Linux Mint](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):Su ultima version es Ulyana LTS salio en 27/06/2020 la novedad es que solo saldrá en versión de 64 bits.  
+
+* [Ubuntu](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):20.04 LTS	Focal Fossa salio en el 23 de abril de 2020 y trae como novedad que  podemos mencionar el trabajo que se realizo para mejorar el consumo de memoria así como también las mejoras en el entorno de escritorio para tener un mejor desempeño.  
+
+* [Debian](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):   
+
+* [MX Linux](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):  
+
+
