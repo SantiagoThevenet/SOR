@@ -5,6 +5,7 @@
 * La principal diferencia entre ellos es que con el software libre puedes ejecutar, copiar, distribuir, estudiar, modificar el sfotware de forma gratuita.  
 * En cambio el software comercial para hacer lo mismo necesitas pagar la licencia.  
 -Que es una distribicion y cuales son las mas usadas de linux:  
+  
 -Una distribución es una versión personalizada del sistema operativo original.Los mas usados de Llinux son:  
 * [Manjaro](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):Su ultima version es "Lysia" lazada en 10-06-2020 y tiene muchas novedades como nuevo tema, nuevo kernel, nuevo sistema de archivos.
 
@@ -16,4 +17,6 @@
 
 * [MX Linux](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):Su ultima version es MX-14	y salio en 24 de marzo, 2014.Su mayor novedad se destaca que la base del sistema se ha actualizado a Debian 10.  
 
-
+-¿Qué es Unix, en que se diferencian Unix y Linux?.  
+* Unix es un sistema operativo que fue desarrollado por Thompson y Dennis Ritchie en 1969.  
+* La diferencia entre Linux y Unix es que linux es solo el núcleo del sistema, mientras que Unix es un sistema operativo completo.
