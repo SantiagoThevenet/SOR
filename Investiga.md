@@ -10,10 +10,10 @@
 
 * [Linux Mint](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):Su ultima version es Ulyana LTS salio en 27/06/2020 la novedad es que solo saldrá en versión de 64 bits.  
 
-* [Ubuntu](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):20.04 LTS	Focal Fossa salio en el 23 de abril de 2020 y trae como novedad que  podemos mencionar el trabajo que se realizo para mejorar el consumo de memoria así como también las mejoras en el entorno de escritorio para tener un mejor desempeño.  
+* [Ubuntu](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):Su ultima version es 20.04 LTS	Focal Fossa salio en el 23 de abril de 2020 y trae como novedad que  podemos mencionar el trabajo que se realizo para mejorar el consumo de memoria así como también las mejoras en el entorno de escritorio para tener un mejor desempeño.  
 
-* [Debian](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):   
+* [Debian](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):Su ultima version es 10.0	Buster que salio en 6 de julio de 2019, sus novedades mas destacadas es que tiene las ultimas versiones de los entornos gráfico como puede ser Cinnamon 3.8,GNOME 3.30,KDE Plasma 5.14 entre otros.  
 
-* [MX Linux](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):  
+* [MX Linux](https://www.kigaricyd.com/2018/07/16/las-10-distribuciones-mas-populares-de-linux/):Su ultima version es MX-14	y salio en 24 de marzo, 2014.Su mayor novedad se destaca que la base del sistema se ha actualizado a Debian 10.  
 
 
